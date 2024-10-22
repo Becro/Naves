@@ -1,0 +1,5 @@
+com\adrian\PruebaTecnicaGarajeApplicationTests.class
+com\adrian\repository\NaveRepositoryTest.class
+com\adrian\controller\NavesControllerTest.class
+com\adrian\dto\NaveDTOTest.class
+com\adrian\model\NaveTest.class
